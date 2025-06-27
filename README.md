@@ -14,6 +14,9 @@
 - Inpaint
 - AnimationDiff
 
+## Address
+- `ComfyUI/models/loras`
+
 ## Use Workflow
 1. Model Load
 2. Scheduler : LCMScheduler
