@@ -15,7 +15,8 @@
 - AnimationDiff
 
 ## Address
-- `ComfyUI/models/loras`
+1. `ComfyUI/models/loras`
+2. Restart ComfyUI
 
 ## Use Workflow
 1. Model Load
